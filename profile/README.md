@@ -13,9 +13,7 @@ This is Official Repository of Codemetaphor Instagram Tech Page
 <p>
 
 <h3>Our Previous Clients:</h3>
-<a href="https://vrkreddy.com/">
-    <img width="200" src="assests/blue white minimalist bulb math logo design (2).png" />
-
-</a>
+<a href="https://vrkreddy.com/"><img width="200" src="assests/blue white minimalist bulb math logo design (2).png" /></a>
+<a href="https://se.rohith.xyz/"><img width="200" src="assests/vogue.png" /></a>
 
 </p>
