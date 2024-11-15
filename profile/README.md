@@ -1,6 +1,6 @@
 # CodeMetaphor
 
-This is Official Repository of Codemetaphor Instagram Tech Page
+This is Official Repository of Codemetaphor
 
 
 <h3 align="left">Connect with Us:</h3>
